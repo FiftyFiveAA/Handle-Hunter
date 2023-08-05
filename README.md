@@ -24,6 +24,7 @@ This was only tested on Windows 11 x64. Changes to the structs will probably be 
 
 ### Windows 11 x64 Handle Types (August 2023)
 
+```
 Event 0x130000
 IRTimer 0x180000
 Semaphore 0x160000
@@ -51,3 +52,4 @@ DxgkSharedSyncObject 0x410000
 DxgkSharedResource 0x3f0000
 WmiGuid 0x360000
 Unknown 0x370000
+```
